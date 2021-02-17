@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InClass03</string>
+    <string name="MyAvatar">My Avatar</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="StudentID">Student ID</string>
+    <string name="Department">Department</string>
+    <string name="Other">Other</string>
+    <string name="BIO">BIO</string>
+    <string name="SIS">SIS</string>
+    <string name="CS">CS</string>
+    <string name="Save">Save</string>
+    <string name="Name">Name:</string>
+    <string name="StudentID1">Student ID:</string>
+    <string name="Depatment1">Depatment:</string>
+    <string name="Edit">Edit</string>
+</resources>
